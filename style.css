@@ -12,6 +12,14 @@ background: #fff;
 }
 
 #main-navigation{
-    background: #181818;
+    background: #20007e;
     padding: 10px;
 }
+
+#main-navigation ul{
+text-align: right;
+list-style-type: none;
+margin-right: 10px;
+
+}
+
