@@ -5,7 +5,7 @@ body{
 }
 
 #wrapper{
-width: 980px;
+width: 800px;
 margin: 0 auto;
 background: #fff;
 
@@ -95,4 +95,9 @@ margin: 20px auto;
 color: #fff;
 background: #8f746c
 
+}
+
+#footer-banner img{
+
+    width: 100%;
 }
