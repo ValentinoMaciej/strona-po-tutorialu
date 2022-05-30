@@ -54,6 +54,13 @@ text-align: center;
 
 }
 
+#shop .product-image{
+width: 300px;
+height: 300px;
+object-position: center;
+
+}
+
 #shop h2.product-name{
     font-size: 16px;
     margin-bottom: 0;
