@@ -61,6 +61,13 @@ object-position: center;
 
 }
 
+#shop .rating{
+    width: 200px;
+    object-position: center;
+    
+    }
+
+
 #shop h2.product-name{
     font-size: 16px;
     margin-bottom: 0;
