@@ -1,0 +1,17 @@
+body{
+    font-family: arial;
+    margin: 0;
+    background: #eee;
+}
+
+#wrapper{
+width: 980px;
+margin: 0 auto;
+background: #fff;
+
+}
+
+#main-navigation{
+    background: #181818;
+    padding: 10px;
+}
