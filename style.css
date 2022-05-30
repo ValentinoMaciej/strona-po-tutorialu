@@ -23,3 +23,24 @@ margin-right: 10px;
 
 }
 
+#main-navigation li{
+display: inline-block;
+margin-left: 20px;
+
+}
+
+#main-navigation a{
+color: #fff;
+text-decoration: none;
+text-transform: uppercase;
+font-size: 14px;
+padding: 6px;
+
+}
+
+#main-navigation a.current{
+background-color: rgb(133, 0, 0);
+border-radius: 4px;
+
+}
+
